@@ -1,7 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce2ab4c1-35e8-4659-a5c3-2e568201067b" name="Changes" comment="" />
+    <list default="true" id="ce2ab4c1-35e8-4659-a5c3-2e568201067b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CommentJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HelloJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HelloJava2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/EnhancedFor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx1Ref.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ProductAdminEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/casting/Casting1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/casting/Casting2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/casting/Casting3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/casting/Casting4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/CondOp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/CondOp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/If1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/If2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/If3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/If4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/If5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/If6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/Switch1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/Switch2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/Switch3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/Switch4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/CondOpEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/DistanceEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/EvenOddEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/ExchangeRateEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/GradeSwitchEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/MoveRateEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/ScoreEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Break1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Break2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Break3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Continue1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/DoWhile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/DoWhile2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/For1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/For2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Nested1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/ForEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/ForEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/ForEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/NestedEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/NestedEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/WhileEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/WhileEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/WhileEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/Scope1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/Scope2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/Scope3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/Scope3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/ex/VarEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/ex/VarEx1Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/ex/VarEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/ex/VarEx3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +103,18 @@
   "associatedIndex": 8
 }]]></component>
   <component name="ProjectId" id="2aDovB8mRlhDp1WGFvmaspt6rAd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.HelloJava.executor": "Run",
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -28,7 +122,14 @@
     "onboarding.tips.debug.path": "/Users/yeourain/Desktop/projects/Java/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.HelloJava">
+    <configuration name="HelloJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloJava" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Java" />
@@ -38,6 +139,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloJava" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -59,6 +161,9 @@
       <updated>1703862738824</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
