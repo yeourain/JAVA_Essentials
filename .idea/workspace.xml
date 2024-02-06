@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce2ab4c1-35e8-4659-a5c3-2e568201067b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section06/EX06_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section06/EX06_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/section06/EX06_03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +48,8 @@
     "Application.EX02_11.executor": "Run",
     "Application.EX02_12.executor": "Run",
     "Application.EX02_13.executor": "Run",
+    "Application.EX06_01.executor": "Run",
+    "Application.EX06_02.executor": "Run",
     "Application.HelloJava.executor": "Run",
     "Application.HelloJava2.executor": "Run",
     "Application.Main.executor": "Run",
@@ -73,52 +77,52 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Practice">
-    <configuration name="EX02_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section02.EX02_10" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EX02_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section02.EX02_11" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EX02_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section02.EX02_12" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.EX06_03">
     <configuration name="EX02_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section02.EX02_13" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="section02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX06_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section06.EX06_01" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX06_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section06.EX06_02" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX06_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section06.EX06_03" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EX06_03" />
+        <item itemvalue="Application.EX06_02" />
+        <item itemvalue="Application.EX06_01" />
         <item itemvalue="Application.Practice" />
         <item itemvalue="Application.EX02_13" />
-        <item itemvalue="Application.EX02_12" />
-        <item itemvalue="Application.EX02_11" />
-        <item itemvalue="Application.EX02_10" />
       </list>
     </recent_temporary>
   </component>
