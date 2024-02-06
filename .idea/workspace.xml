@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce2ab4c1-35e8-4659-a5c3-2e568201067b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/section02/ConsolePrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section02/EX02_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section02/EX02_08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section02/EX02_09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section02/EX02_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section02/EX02_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section02/EX02_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section02/EX02_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section02/Printf01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section02/Printf02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section02/PrintfPt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section02/PrintfSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/section02/Variable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +49,7 @@
     "Application.HelloJava.executor": "Run",
     "Application.HelloJava2.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Practice.executor": "Run",
     "Application.Printf01.executor": "Run",
     "Application.Printf02.executor": "Run",
     "Application.PrintfPt.executor": "Run",
@@ -85,20 +73,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EX02_13">
-    <configuration name="EX02_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section02.EX02_09" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Practice">
     <configuration name="EX02_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section02.EX02_10" />
       <module name="Java" />
@@ -151,13 +126,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practice" />
         <item itemvalue="Application.EX02_13" />
         <item itemvalue="Application.EX02_12" />
         <item itemvalue="Application.EX02_11" />
         <item itemvalue="Application.EX02_10" />
-        <item itemvalue="Application.EX02_09" />
       </list>
     </recent_temporary>
   </component>
